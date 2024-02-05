@@ -4,7 +4,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-       I'm Yousra, a passionate aspiring software engineer based in Denmark. I am enthusiastic about learning and eager to apply my skills to create innovative solutions. I look forward to contributing my expertise to the field of software development.<br>
+       Hello, I'm Yousra, a dedicated aspiring  software engineering enthusiast based in Denmark. My commitment to learning and honing my skills drives my passion for crafting innovative solutions. Eager to contribute to the field, I am actively seeking opportunities to apply my expertise and make meaningful contributions in the realm of software development.<br>
     </i><br>
 </p>
 
