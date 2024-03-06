@@ -16,6 +16,10 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mariadb)](https://www.w3schools.com/sql/sql_intro.asp)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousradiab&hide=css,html&layout=compact&theme=transparent&hide_border=true&title_color=e6edf3&text_color=e6edf3)](https://github.com/yousradiab)
+
 ### ⚙️ -Technologies & Frameworks
 
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
@@ -32,6 +36,9 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/en-us/)
+
+
+
 
 ### 🖥️ 
 
