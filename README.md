@@ -4,13 +4,15 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-       Hello, I'm Yousra, a dedicated aspiring  software engineering enthusiast based in Denmark. My commitment to learning and honing my skills drives my passion for crafting innovative solutions. Eager to contribute to the field, I am actively seeking opportunities to apply my expertise and make meaningful contributions in the realm of software development.<br>
+       Hello, I'm Yousra, a dedicated aspiring  software engineering enthusiast based in Denmark. My commitment to learning and honing my skills drives my passion for crafting innovative solutions. Eager to contribute to the field.<br>
     </i><br>
 </p>
+
 
 ### 👨‍💻 -Languages
 
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
+[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://go.dev/)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mariadb)](https://www.w3schools.com/sql/sql_intro.asp)
@@ -18,22 +20,20 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousradiab&hide=css,html&layout=compact&theme=transparent&hide_border=true&title_color=e6edf3&text_color=e6edf3)](https://github.com/yousradiab)
-
 ### ⚙️ -Technologies & Frameworks
 
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
 [![Express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=spring-boot)](https://spring.io/)
+[![Fiber](https://img.shields.io/badge/fiber-black?style=for-the-badge&logo=goland)](https://gofiber.io/)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 [![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)](https://www.prisma.io/)
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/en-us/)
 
@@ -50,6 +50,8 @@
 
 [![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://www.postman.com/)
 [![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello)](https://trello.com/home)
+[![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousradiab&hide=css,html&layout=compact&theme=transparent&hide_border=true&title_color=e6edf3&text_color=e6edf3)](https://github.com/yousradiab)
 
 
