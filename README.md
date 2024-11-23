@@ -9,7 +9,7 @@
 </p>
 
 
-### 👨‍💻 -Languages
+### 👨‍💻 Languages
 
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
 [![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://go.dev/)
@@ -20,14 +20,17 @@
 
 
 
-### ⚙️ -Technologies & Frameworks
+### ⚙️ Technologies & Frameworks
 
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
 [![Express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=spring-boot)](https://spring.io/)
 [![Fiber](https://img.shields.io/badge/fiber-black?style=for-the-badge&logo=goland)](https://gofiber.io/)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![Githb Actions](https://img.shields.io/badge/github%20actions-black?style=for-the-badge&logo=github-actions)](https://github.com/features/actions)
 [![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 [![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)](https://www.prisma.io/)
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
@@ -36,6 +39,8 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/en-us/)
+[![Prometheus](https://img.shields.io/badge/prometheus-black?style=for-the-badge&logo=prometheus)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/grafana-black?style=for-the-badge&logo=grafana)](https://grafana.com/)
 
 
 
@@ -55,3 +60,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousradiab&hide=css,html&layout=compact&theme=transparent&hide_border=true&title_color=e6edf3&text_color=e6edf3)](https://github.com/yousradiab)
 
 
+Profile Picture based on work by Ashley McNamara - find her stuff [here](https://github.com/ashleymcnamara/gophers/tree/master)
