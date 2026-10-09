@@ -4,7 +4,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-       Hello, I'm Yousra, a dedicated aspiring  software engineering enthusiast based in Denmark. My commitment to learning and honing my skills drives my passion for crafting innovative solutions. Eager to contribute to the field.<br>
+       Hello, I'm Yousra, a dedicated aspiring  Agentic AI Engineer based in Denmark. My commitment to learning and honing my skills drives my passion for crafting innovative and practial angents. <br>
     </i><br>
 </p>
 
@@ -15,8 +15,6 @@
 [![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://go.dev/)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mariadb)](https://www.w3schools.com/sql/sql_intro.asp)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
 
 
@@ -25,10 +23,8 @@
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
 [![Express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=spring-boot)](https://spring.io/)
-[![Fiber](https://img.shields.io/badge/fiber-black?style=for-the-badge&logo=goland)](https://gofiber.io/)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Githb Actions](https://img.shields.io/badge/github%20actions-black?style=for-the-badge&logo=github-actions)](https://github.com/features/actions)
 [![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)](https://vitejs.dev/)
@@ -36,8 +32,6 @@
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/en-us/)
 [![Prometheus](https://img.shields.io/badge/prometheus-black?style=for-the-badge&logo=prometheus)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/grafana-black?style=for-the-badge&logo=grafana)](https://grafana.com/)
